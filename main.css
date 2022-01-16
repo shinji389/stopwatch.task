@@ -1,0 +1,9 @@
+p{
+  display: inline-block;
+}
+
+#time{
+   margin-left: 30px;
+   margin-bottom: 20px;
+   font-size: 24px;
+}
